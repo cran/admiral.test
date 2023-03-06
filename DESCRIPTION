@@ -1,11 +1,15 @@
 Package: admiral.test
 Type: Package
 Title: Test Data for the 'admiral' Package
-Version: 0.4.0
+Version: 0.5.0
 Authors@R: c(
   person("Thomas", "Neitmann", email = "thomas.neitmann@roche.com", role = c("aut", "cre")),
   person("Stefan", "Bundfuss", role = "aut"),
+  person("Gordon", "Miller", role = "aut"),
+  person("Ben", "Straub", role = "aut"),
+  person("Syed", "Mubasheer", role = "aut"),
   person("Ross", "Farrugia", role = "ctb"),
+  person("Shan", "Lee", role = "ctb"),
   person("Gopi", "Vegesna", role = "ctb"),
   person("Sophie", "Shapcott", role = "ctb"),
   person("Mahdi", "About", role = "ctb"),
@@ -30,10 +34,14 @@ RoxygenNote: 7.2.1
 Suggests: devtools, lintr, pkgdown, testthat, knitr, rmarkdown,
         roxygen2, spelling, styler, usethis, covr
 NeedsCompilation: no
-Packaged: 2022-11-29 09:28:13 UTC; neitmant
+Packaged: 2023-03-06 18:17:41 UTC; r590548
 Author: Thomas Neitmann [aut, cre],
   Stefan Bundfuss [aut],
+  Gordon Miller [aut],
+  Ben Straub [aut],
+  Syed Mubasheer [aut],
   Ross Farrugia [ctb],
+  Shan Lee [ctb],
   Gopi Vegesna [ctb],
   Sophie Shapcott [ctb],
   Mahdi About [ctb],
@@ -46,4 +54,4 @@ Author: Thomas Neitmann [aut, cre],
   Clinical Data Interchange Standards Consortium [cph]
 Maintainer: Thomas Neitmann <thomas.neitmann@roche.com>
 Repository: CRAN
-Date/Publication: 2022-11-29 09:50:02 UTC
+Date/Publication: 2023-03-06 20:20:02 UTC
