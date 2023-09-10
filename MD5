@@ -1,10 +1,11 @@
-c4e0680f39e3312b09980f01291d2195 *DESCRIPTION
+b705cc0dad0f6416db0748da68fb40c8 *DESCRIPTION
 09bd792db81cb9d024e928235e1edb9f *NAMESPACE
-0fb22c320b93ed9bc70d4960018ef010 *NEWS.md
+863727f0d7e2b6cd8578d95390c5d11f *NEWS.md
 3655d6b661116181ccf021a07f39b336 *R/admiral.test.R
 433a3f93f0f692b4d764bfc11abb2fa0 *R/data.R
 453d266f3fa8caaebefec2cea55f75ee *R/get_terms.R
-a04d2c147c63404daaa350fd5693ef06 *README.md
+68114501c2010c1567f13b5651099843 *R/zzz.R
+a5ed4c540c0386cc397d616d3c1f5ac8 *README.md
 3a33bcf3a77a169e35f380aed13f4422 *data/admiral_ae.rda
 03dd2aa8b4ef00102afdb43bd7679d55 *data/admiral_cm.rda
 81f53c980902756c03072dd9e3f6dd01 *data/admiral_dm.rda
@@ -36,7 +37,7 @@ a53852a2fbc7e25693f12771ad0455cd *data/raw_ae.rda
 b49198ea6da73939326667c1af04f218 *data/raw_mh.rda
 54b27adc9e4f2ae96b39b95b75cd3451 *data/raw_qs.rda
 342d96209fa8ec3b238f442e063d71f6 *data/raw_suppds.rda
-a429280ce09b4139d93879f7ab21337f *inst/WORDLIST
+17389f31d7aba9e413a98a29ccc40945 *inst/WORDLIST
 f32f25796ed2451b90baa4d337ad0488 *man/admiral.test-package.Rd
 c4962e83fb4ce2e806c9b4a6eecd5f6c *man/admiral_ae.Rd
 f017381e9819cdd41cf8d5e223b82e20 *man/admiral_cm.Rd
